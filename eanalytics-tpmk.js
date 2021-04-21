@@ -7,6 +7,7 @@
 // @match        https://produto.mercadolivre.com.br/*
 // @match        https://lista.mercadolivre.com.br/*
 // @match        https://*.mercadolivre.com.br/*
+// @downloadURL  https://bit.ly/escalada-plugin
 // @grant        none
 // ==/UserScript==
 
